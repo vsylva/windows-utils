@@ -1,3 +1,7 @@
+# README
+
+[中文](README-ZH.md)
+
 Tool
 ===
 
@@ -22,10 +26,7 @@ Tool
 | [PotPlayer](https://potplayer.daum.net/)                                              |                                                                                                                                                                                                                                                                                                                                                                                         |
 | [Lenovo Legion Toolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)       | Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.                                                                                                                                                                                                                                                                                                           |
 | [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)             | AFTERBURNER IS THE GOLD STANDARD OF OVERCLOCKING UTILITIES                                                                                                                                                                                                                                                                                                                              |
-
-
-
-
+| [Textify](https://github.com/m417z/Textify)                                           | A tool for Windows to copy text from dialogs and controls which don't allow it otherwise                                                                                                                                                                                                                                                                                                |
 
 
 
@@ -51,5 +52,5 @@ Game
 | repo                                                                  | desc                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) | Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer apis on a LAN without steam or an internet connection.                                                                                                                                                                                     |
-| [Steamless]([Steamless](https://github.com/atom0s/Steamless))         | Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.                                                                                                                                           |
+| [Steamless](https://github.com/atom0s/Steamless)                      | Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.                                                                                                                                           |
 | [CreamInstaller](https://github.com/pointfeev/CreamInstaller)         | Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selected games' DLCs, then provides a very simple graphical interface utilizing the gathered information for the maintenance of DLC unlockers. |
