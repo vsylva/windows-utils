@@ -46,3 +46,4 @@
 | [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) | Goldberg Emulator 是一个 Steam 模拟器，模拟 Steam 的在线功能。它允许您在没有 Steam 或互联网连接的 LAN 上玩使用 Steam 多人游戏 API 的游戏。                                                                                                         |
 | [Steamless](https://github.com/atom0s/Steamless)                      | Steamless 是一款用于移除 SteamStub DRM 的工具。Steamless 的目标是提供一个解包所有 Steam DRM 加密文件的通用解决方案。Steamless 的目标是尽可能支持更多的游戏。                                                                                       |
 | [CreamInstaller](https://github.com/pointfeev/CreamInstaller)         | CreamInstaller 可自动找到用户计算机上所有已安装的 Steam、Epic 和 Ubisoft 游戏以及相应的 DLC DLL 位置，解析 SteamCMD、Steam 商店和 Epic Games 商店以获取用户选择游戏的 DLC，并提供一个非常简单的图形界面，利用收集到的信息对 DLC 解锁程序进行维护。 |
+| [Ryujinx](https://github.com/Ryujinx/Ryujinx)         | 用C#编写的实验性任天堂Switch模拟器 |
